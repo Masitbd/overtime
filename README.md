@@ -16,3 +16,4 @@
 
 ## UI:
 - Bootstrap -> formatting
+- lecture 14 middle part
